@@ -1,0 +1,13 @@
+{
+  "id": "sylas",
+  "name": "Sylas Aldridge",
+  "image": "https://api.adorable.io/avatars/150/test.png",
+  "url": "http://illsea.com",
+  "location": "Seattle, WA",
+  "bio": "I'm a self-taught developer with a degree in Creative Writing.",
+  "socialUrls": [
+    "https://github.com/illseallc",
+    "https://twitter.com/sylas",
+    "mailto:sylas@illsea.com"
+  ]
+}
