@@ -2,8 +2,9 @@
 title: "Big Test"
 cover: "https://unsplash.it/1280/900/?random?BigTest"
 category: "moar"
-date: "01/03/2018"
+date: "01/04/2018"
 slug: "Big-Sample_Test"
+author: "Sylas Aldridge"
 tags:
     - test
     - huge

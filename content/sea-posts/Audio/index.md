@@ -1,8 +1,12 @@
 ---
-title: "The Fairy's Witches"
-cover: "https://unsplash.it/1152/300/?random?FaityWitch"
-category: "something"
-date: "02/04/2017"
+title: "Audio"
+cover: "/images/tortoise.jpg"
+category: "audio"
+slug: "audio"
+date: "02/18/2017"
+author: "Sylas Aldridge"
+tags:
+    - audio
 ---
 # Eram mora tuas in inter ferens caterva
 
