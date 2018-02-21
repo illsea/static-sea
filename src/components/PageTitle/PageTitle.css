@@ -1,12 +1,14 @@
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    padding-top: 420px;
+    padding-top: 375px;
     margin: 10px 0;
-    font-size: 10rem;
-    letter-spacing: -1px;
-    font-weight: 700;
-    font-family: "Open Sans", sans-serif;
-    color: #fff;
+    font-size: 14rem;
+    letter-spacing:-1px;
+    font-weight: 100;
+    font-family: 'butcherman', cursive;
+    color: rgba(255, 255, 255, 0.863);
+    text-shadow: 2px 2px 2px rgba(50, 0, 70, 0.603);
+    
 }
 
 .no-cover .page-title {

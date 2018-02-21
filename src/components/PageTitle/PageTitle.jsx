@@ -1,6 +1,7 @@
 import React from "react";
 import "./PageTitle.css";
 
+
 class PageTitle extends React.Component {
   render() {
     const { text } = this.props;

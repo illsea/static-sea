@@ -6,6 +6,7 @@
     right: 240px;
     bottom: 0;
     z-index: 10;
+    
 }
 
 .nav {
@@ -16,7 +17,7 @@
     z-index: 5;
     width: 240px;
     opacity: 0;
-    background: rgb(13, 54, 49);
+    background: #563c69;
     margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
@@ -79,7 +80,7 @@
     /* top: 0; - duplicate inherited from original casper CSS */
     width: 20px;
     height: 1px;
-    background: rgb(150, 150, 150);
+    background: rgba(255, 255, 255, 0.562);
     top: 15px;
     -webkit-transition: background 0.15s ease;
     transition: background 0.15s ease;
@@ -99,8 +100,14 @@
 
 .nav-close:hover::before,
 .nav-close:hover::after {
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.788);
 }
+
+
+.nav-opened:hover {
+    background: rgba(255, 255, 255, 0.192);
+}
+
 
 .nav ul {
     padding: 90px 9% 5%;
@@ -156,7 +163,7 @@
 
 .nav a:link,
 .nav a:visited {
-    color: #b8b8b8;
+    color: #ffffff;
 }
 
 .nav li.nav-current a,
@@ -177,10 +184,10 @@
     right: 30px;
     height: 38px;
     padding: 0 20px;
-    color: #111 !important; /* Overides `.nav a:link, .nav a:visited` colour */
+    color:   rgb(54, 10, 80) !important; /* Overides `.nav a:link, .nav a:visited` colour */
     text-align: center;
     font-size: 12px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "graudate", cursive;
     text-transform: uppercase;
     text-decoration: none;
     line-height: 35px;

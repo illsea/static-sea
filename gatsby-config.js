@@ -27,6 +27,13 @@ module.exports = {
       }
     },
     {
+      resolve: "gatsby-plugin-google-fonts",
+      options:
+      {
+        fonts: ["creepster", "lobster", "butcherman", "rock salt", "graduate", "limelight", "bungee inline", "frijole", "shojumaru", "faster one", "codystar"]
+      }
+    },
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "authors",

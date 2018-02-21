@@ -1,12 +1,12 @@
 
 .page-description {
     margin: 0;
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 1.5em;
-    font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-weight: 200;
+    font-family: "graduate", cursive;
     letter-spacing: 0.06rem;
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.76);
 
 }
 

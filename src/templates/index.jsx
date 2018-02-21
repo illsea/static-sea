@@ -88,19 +88,15 @@ class IndexTemplate extends React.Component {
 
                 </div>
 
-
-
-
                 <div className="inner">
                 <StaticLink text="Games"
-                url="games"
+                url="canon-fall"
                 />
                 <StaticLink text="Audio"
                 url="audio" 
                 />
-
                <StaticLink text= "About"
-                url="resume.pdf"
+                url="about"
                 />
               </div>
               

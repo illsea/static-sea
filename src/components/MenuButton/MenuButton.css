@@ -27,7 +27,7 @@
 }
 
 .menu-button:hover {
-    background: #fff;
+    background: rgba(255, 255, 255, 0.692);
 }
 
 .menu-button:focus {
@@ -41,7 +41,7 @@
 }
 
 .nav-closed .menu-button:hover {
-    color: rgb(13, 54, 49);
+    color: rgb(255, 255, 255);
 }
 
 /* When the navigation is closed and there is no cover image */
@@ -51,7 +51,7 @@
 }
 
 .nav-closed .no-cover .menu-button:hover {
-    border-color: #555;
+    border-color: rgb(255, 255, 255);
     color: #555;
 }
 
@@ -59,7 +59,7 @@
 .nav-opened .menu-button {
     padding: 0 12px;
     background: rgba(255, 255, 255, 0.404);
-    border-color: rgb(13, 54, 49);
+    border-color: rgb(255, 255, 255);
     color: #fff;
     -webkit-transform: translate3d(94px, 0, 0);
     -ms-transform: translate3d(94px, 0, 0);
