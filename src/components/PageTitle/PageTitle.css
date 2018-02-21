@@ -29,8 +29,9 @@
 
 @media only screen and (max-width: 900px) {
     .page-title {
-        font-size: 4rem;
+        font-size: 10rem;
         letter-spacing: -1px;
+        padding-top: 420px;
     }
 }
 
@@ -40,8 +41,13 @@
 
 @media only screen and (max-width: 500px) {
     .page-title {
-        font-size: 3rem;
+        font-size: 7rem;
+        padding-top: 550px;
     }
+
+    
+
+
 }
 
 /* ==========================================================================

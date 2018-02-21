@@ -22,7 +22,7 @@
 
 @media only screen and (max-width: 900px) {
     .blog-logo img {
-        padding: 4px 0;
+        padding: 1px 0 5px;
     }
 }
 
@@ -32,10 +32,10 @@
 
 @media only screen and (max-width: 500px) {
     .blog-logo {
-        padding: 5px;
+        padding: 5px 5px 5px;
     }
 
     .blog-logo img {
-        height: 30px;
+        height: 32px;
     }
 }
