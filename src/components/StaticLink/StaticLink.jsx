@@ -12,8 +12,6 @@ class StaticLink extends Component {
       <span className="link-button">
       <a href={url}>{text}</a>
 
-      
-
      
       </span>
     )

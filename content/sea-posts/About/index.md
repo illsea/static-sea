@@ -12,8 +12,8 @@ tags:
     - Corporate
 ---
 
-# I'm a one man indie games, software, and audio studio.
+# Indie games, software, and audio studio.
 
-I write, play, and produce both music and software by my lonesome. My formal education is in English, but I prefer writing software. While I'm running a business, this site also serves as a portion of my portfolio. I'm looking to switch gears from sales into a proper technical role.
+ This studio is devoted to my solo projects; producing games and audio. My formal education is in English, History and even a little bit of Law, but I see myself as an aspiring developer or engineer. While I'm running a studio, I made this site using [Gatsby](https://github.com/gatsbyjs/gatsby) and [React](https://github.com/facebook/react), as a portion of my portfolio. I'm looking to switch gears from sales into a proper technical role.
 
-To that end, **[here's a copy of my resume.](/resume.pdf)** Feel free to hire me!
+To that end, **[here's a copy of my resume.](/resume.pdf)**

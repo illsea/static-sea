@@ -1,14 +1,14 @@
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    padding-top: 375px;
-    margin: 10px 0;
-    font-size: 14rem;
+   
+    margin-bottom: 5rem;
+    font-size: 16rem;
     letter-spacing:-1px;
     font-weight: 100;
     font-family: 'butcherman', cursive;
-    color: rgba(255, 255, 255, 0.863);
+    color: rgba(255, 255, 255, 0.959);
     text-shadow: 2px 2px 2px rgba(50, 0, 70, 0.603);
-    
+    padding-top: 15%;
 }
 
 .no-cover .page-title {
@@ -27,11 +27,11 @@
    12. Media Queries - Smaller than 900px
    ========================================================================== */
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 900 ) {
     .page-title {
-        font-size: 10rem;
-        letter-spacing: -1px;
-        padding-top: 420px;
+        padding-top: 100px;
+        margin-bottom: 40px;
+
     }
 }
 
@@ -41,8 +41,10 @@
 
 @media only screen and (max-width: 500px) {
     .page-title {
-        font-size: 7rem;
-        padding-top: 550px;
+
+        font-size: 10rem;
+        padding-top: 470px;
+        margin-bottom: -1rem;
     }
 
     

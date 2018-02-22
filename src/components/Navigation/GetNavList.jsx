@@ -21,19 +21,13 @@ function GetNavList(config) {
     primaryText: "Games",
     // LeftIcon: <FontIcon>person</FontIcon>,
     component: Link,
-    to: "/games/"
+    to: "/canon-fall/"
   },
   {
     primaryText: "Audio",
     // LeftIcon: <FontIcon>person</FontIcon>,
     component: Link,
     to: "/audio/"
-  },
-  {
-    primaryText: "Learning",
-    // LeftIcon: <FontIcon>person</FontIcon>,
-    component: Link,
-    to: "/learning/"
   },
   {
     primaryText: "About",
