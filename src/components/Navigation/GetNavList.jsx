@@ -21,7 +21,7 @@ function GetNavList(config) {
     primaryText: "Games",
     // LeftIcon: <FontIcon>person</FontIcon>,
     component: Link,
-    to: "/canon-fall/"
+    to: "/games/"
   },
   {
     primaryText: "Audio",
