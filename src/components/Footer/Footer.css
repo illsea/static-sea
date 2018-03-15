@@ -5,12 +5,13 @@
 .site-footer {
     position: relative;
     margin: 0 0 0;
-    padding: 1rem 15px;
+    padding: .25rem;
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
     color: #bbc7cc;
-    background: #563c69;
+    background: #224131;
+    /* border-top: #a8c4ae 2px solid; */
 }
 
 .site-footer a {
@@ -43,7 +44,7 @@
 
 @media only screen and (max-width: 500px) {
     .site-footer {
-        margin-top: 3rem;
+        
     }
 
     .post-template .site-footer,
