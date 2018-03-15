@@ -6,8 +6,8 @@ module.exports = {
   siteTitleAlt: "Learning games, music, and more", // Alternative site title for SEO.
   siteLogo:
     "/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/static-sea", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "https://illsea.com", // Domain of your website without pathPrefix.
+  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Learn to play. Play to learn.", // Website description used for RSS feeds/meta description tag.
   siteCover:
@@ -15,7 +15,7 @@ module.exports = {
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Sylas Aldridge", // The author name used in the RSS file
-  // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
+  // siteFBAppID: "", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 10, // The max number of posts per page.
   googleAnalyticsID: "UA-114350849-1", // GA tracking ID. // GET YOURS
   siteSocialUrls: [
